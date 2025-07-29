@@ -1,5 +1,7 @@
 # VirusTotal Bulk IP Scan
 
+> ⚡ Quickly scan IPs using VirusTotal v3 API and export results to CSV
+
 This Python script performs **bulk IP address analysis** using the [VirusTotal API v3](https://developers.virustotal.com/reference/ip-object).
 
 It reads a list of IP addresses from a CSV file, queries VirusTotal for each address, and writes the results to a new CSV file for further review.
