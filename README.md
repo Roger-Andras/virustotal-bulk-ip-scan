@@ -29,7 +29,7 @@ Install via pip:
 
 ```bash
 pip install requests
-
+```
 
 ---
 
