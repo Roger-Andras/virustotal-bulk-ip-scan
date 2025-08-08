@@ -29,3 +29,8 @@ Install via pip:
 
 ```bash
 pip install requests
+
+## Acknowledgments
+
+- The **VirusTotal bulk IP scanner script** included here was originally written by **Ch. Jnana Ramakrishna (_ph1nx_)** and is used under the [MIT License]. See the script header for full attribution and license details. Sourced from [ph1nx/VirusTotal-Bulk-IP-Scanner] on GitHub. :contentReference[oaicite:1]{index=1}
+
